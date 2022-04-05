@@ -1,0 +1,46 @@
+Version: charming-pro-1.3.0 
+
+DEVELOPER LICENSE
+*****************
+
+This license grants you, the purchaser, an ongoing, non-exclusive, worldwide license to make use of this template in one personal or commercial project.
+The author of this template retains ownership of this template but grants you the license on these terms.
+The rest of this document specifies the details of this license.
+
+#### Terms of this license
+1. You may use this template to create **one single** *end product*, for yourself or for one client.
+2. You must not redistribute or resell this template or the *source code*.
+3. You must not create a *derivative work* of this template for redistribution or resale.
+
+#### Examples: Things you can do with this license
+- Build one personal or a commercial website.
+- Build one SaaS application for which you charge your end users a monthly fee.
+- Build one mobile or desktop application which you distribute using a *wrapper technology*.
+- Build one progressive web application.
+- Build one end product for one client and charge that client a fee. This license is then transferred to your client.
+
+#### Examples: Things you can NOT do with this license
+
+- Build multiple websites or applications using this template.
+- Build a WordPress theme which you intend to distribute for free or for a fee.
+- Build an on-demand website builder which allows users to build a website for free or for a fee.
+
+
+#### Third-party components
+
+This theme package includes third-party components which are licensed under different terms. For those components, the license of each component applies. Those components are:
+
+- Bootstrap 4 CSS, JavaScript and SCSS files (MIT License)
+- jQuery 3 (MIT License)
+- Font Awesome Icon Font (MIT License)
+- Pixeden Stroke 7 Icon Font Set ([Pixeden License](http://www.pixeden.com/license))
+
+#### Definitions
+
+- **End product**:
+A customized implementation that makes use of this theme that requires skill and effort.
+For example: A website, a web app, a hybrid desktop or mobile application that fulfills a practical purpose or is filled with your own content.
+- **Source code**: In the context of this theme, the source code are all files that are part of the package that are not necessary for a web browser to render this theme. This namely includes the SCSS source files, build related files or JavaScript files that need to be transpiled before they are usable in a web browser.
+- **SaaS application**: A Software as a Service application is any software application which users are being charged for using on an ongoing basis.
+- **Wrapper technology**: A technology that wraps a HTML/CSS/JavaScript application into an application container for use on a system, for example on an iPhone, Android phone, Windows desktop, etc. Examples are Phone Gap or Apache Cordova.
+- **Derivative work**: A product that is a modified version of this template and essentially offers the same benefits to customers. For example a WordPress version or a modified HTML version.

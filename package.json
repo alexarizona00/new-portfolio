@@ -1,0 +1,38 @@
+{
+  "name": "Charming-Pro",
+  "version": "1.3.0",
+  "description": "A front end framework built on top of Bootstrap 4 and jQuery 3.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Rechsteiner",
+  "license": "UNLICENSED",
+  "homepage": "http://hackerthemes.com",
+  "devDependencies": {
+    "autoprefixer": "^9.4.9",
+    "bootstrap": "^4.3.1",
+    "del": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "*",
+    "gulp-header": "^2.0.5",
+    "gulp-htmllint": "0.0.16",
+    "gulp-jshint": "^2.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-scss-lint": "^0.7.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-strip-css-comments": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "*",
+    "gulp-wait": "*",
+    "jshint": "^2.10.1",
+    "jshint-stylish": "*",
+    "merge-stream": "*"
+  },
+  "dependencies": {
+    "natives": "^1.1.6",
+    "node-sass": "^4.11.0"
+  }
+}
